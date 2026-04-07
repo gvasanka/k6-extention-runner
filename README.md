@@ -11,7 +11,7 @@ This repository builds a custom `k6` binary with additional xk6 extensions and p
 ```bash
 docker login
 ```
-
+Use your docker username and token to login
 ### 2. Build the image locally
 
 Single-architecture build:
